@@ -7,7 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/JohannesMilke/image_ii_example.svg?style=social&label=Fork)](https://github.com/JohannesMilke/image_ii_example/fork)
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
-Learn everything about images an advanced Flutter developer needs to know! 
+Learn everything about images such as adding filters, borders & different shapes! 
 
 ### ⚡&ensp;Social Media
 
